@@ -3,4 +3,4 @@ Based on the YOLO Algorithm method need to detect the cars from a image and encl
 
 Due to Large size of zip file(file folder) unable to upload the whole Folder. But No need to worry I wanna to provide the google drive link of the Folder. I hope this will help :)
 
-[YOLO Car Detection Folder](https://drive.google.com/drive/folders/1HmyQv_BYlyMrwdt-GxHhnw3mS01s7NmI)
+[YOLO Car Detection Folder](https://drive.google.com/drive/folders/1HmyQv_BYlyMrwdt-GxHhnw3mS01s7NmI?usp=sharing)
